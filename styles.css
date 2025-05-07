@@ -21,19 +21,19 @@ body{
 .header h1 {
     font-weight: 200;
     font-size: 36px;
-    color: #4d4f62;
+    color: #5f5e66;
     margin-bottom: 16px;
 }
 .header h2 {
     font-weight: 600;
     font-size: 36px;
-    color: #4d4f62;
+    color: #3d3f4c;
     margin-bottom: 16px;
 }
 .header p {
     font-weight: 400;
     font-size: 15px;
-    color: #4d4f62;
+    color: #7f8082;
     opacity: 0.5;
     max-width: 540px;
     margin: 0 auto;
@@ -58,10 +58,9 @@ body{
     margin-bottom: 6px;
 }
 .card p {
-    font-size: 13px;
-    font-weight: 400;
-    opacity: 0.5;
-    margin-bottom: 40px;
+    color: #7f8082;
+    font-size: 16px;
+    margin-bottom: 30px; 
 }
 .card img {
     position: absolute;
@@ -69,10 +68,10 @@ body{
     right: 32px;
 }
 .supervisor {
-    border-top: 4px solid #00c8c8;
+    border-top: 4px solid #52cdcc;
 }
 .team-builder {
-    border-top: 4px solid #ff637b;
+    border-top: 4px solid #da5859;
 }
 .karma {
     border-top: 4px solid #fdbf00;
